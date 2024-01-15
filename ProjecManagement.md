@@ -20,8 +20,11 @@ Hedefi – Rahat bir şəkildə evdən istənilən bir yeməyin bişirilmə qayd
 Kullanılan Yapılar – Login hissesi (Filter)
 
 
-Murat Vurakok :
+**Murat Vurakok** :
   - Yemek blog sitesi, beğenilen yemeği favorilere ekleme, tarif inceleme , istenilirse o yemek sipariş et denildiğinde, o yemeği yapan restoranlar listelensin ve puan fiyat gibi bilgiler olsun ve sipariş verebilelim, kullanıcı daha önce hangi yemeği ve hangi restorandan verdiğini görsün. favoriler listelensin.
+
+
+
 
 
 1) **Good Food**
