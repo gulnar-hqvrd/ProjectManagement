@@ -14,3 +14,6 @@ Hedefi – Rahat bir şəkildə evdən istənilən bir şəkildə fashion daha y
 Ölçeği - Local
 
 Kullanılan Yapılar – Login hissesi (Filter)
+
+
+![Alt text](image.png)
